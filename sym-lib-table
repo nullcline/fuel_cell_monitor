@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name ADuM2250)(type Legacy)(uri ${KIPRJMOD}/sym-lib-table~/ADuM2250.lib)(options "")(descr ""))
+  (lib (name 2021-12-08_00-17-15)(type Legacy)(uri /home/dshillin/Downloads/KiCAD/2021-12-08_00-17-15/2021-12-08_00-17-15.lib)(options "")(descr ""))
+  (lib (name 2021-12-08_00-43-14)(type Legacy)(uri /home/dshillin/Downloads/KiCAD/2021-12-08_00-43-14/2021-12-08_00-43-14.lib)(options "")(descr ""))
+  (lib (name FCMS-rescue)(type Legacy)(uri ${KIPRJMOD}/FCMS-rescue.lib)(options "")(descr ""))
+)

@@ -8,4 +8,4 @@ here are some cool pics (i designed, manufactured, and tested the module).
 ![board](assets/real.jfif)
 ![board](assets/full-system.png)
 
-you can read about the design in the included report here
+you can read about the design in the included report [here](https://github.com/nullcline/fuel_cell_monitor/blob/main/design_report.pdf) 

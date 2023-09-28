@@ -3,9 +3,9 @@
 
 here are some cool pics (i designed, manufactured, and tested the module).
 
-![board](board.png)
-![board](pcbfront.png)
-![board](real.jfif)
-![board](full-system.png)
+![board](assets/board.png)
+![board](assets/pcbfront.png)
+![board](assets/real.jfif)
+![board](assets/full-system.png)
 
 you can read about the design in the included report here
